@@ -1,0 +1,17 @@
+The detailed steps I took to install Sass:
+
+1. **Install Node.js**:
+    - First, you need to install Node.js.
+
+2. **Created a directory 0x03-sass_scss inside my Alx-Intermediate-frontend Repo**
+
+3. **Install Sass**:
+    - I used this command to install Sass
+      npm install sass -v 3.7.4
+   
+
+4. **Verify the Installation**:
+    - After the installation, I verified that Sass is installed by running the following command:
+      ```
+      sass --version
+
